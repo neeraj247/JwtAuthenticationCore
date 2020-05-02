@@ -1,0 +1,14 @@
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\bin\Debug\netcoreapp2.1\JwtCoreApi.deps.json
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\bin\Debug\netcoreapp2.1\JwtCoreApi.runtimeconfig.json
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\bin\Debug\netcoreapp2.1\JwtCoreApi.runtimeconfig.dev.json
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\bin\Debug\netcoreapp2.1\JwtCoreApi.dll
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.csprojAssemblyReference.cache
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.RazorAssemblyInfo.cache
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.RazorAssemblyInfo.cs
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.AssemblyInfoInputs.cache
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.AssemblyInfo.cs
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\bin\Debug\netcoreapp2.1\JwtCoreApi.pdb
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.dll
+C:\Users\neewadhw\source\repos\JWTDemoWeb\JwtCoreApi\obj\Debug\netcoreapp2.1\JwtCoreApi.pdb
