@@ -17,6 +17,11 @@ namespace JwtCoreWeb.Controllers
             return View();
         }
 
+        public ActionResult _PartialDate()
+        {
+            return View();
+        }
+
         [HttpPost]
         public IActionResult Login(Login login)
         {
